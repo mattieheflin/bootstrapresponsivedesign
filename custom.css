@@ -1,0 +1,41 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+h1, h2 {
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+.bg-primary {
+			background-color: #ff0000 !important;
+}
+
+#navbarResponsive,.navbar-brand,.btn, p {
+	font-family: "Crete Round", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar-dark {
+	background-color: black !important;
+}
+
+.bg-light {
+	background: rgba(255, 0, 0, 0.3) !important;
+}
+
+#carouselCFA, #carouselINOUT, #carouselMCD, #carouselWENDY, #carouselCANE {
+	width: 400px !important;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+	filter: invert(100%);
+}
